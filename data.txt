@@ -1,3 +1,0 @@
-Hiii
-I am learning python
-Appended line
